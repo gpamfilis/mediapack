@@ -6,4 +6,4 @@ Explain WTF your doing
 
 __author__ = 'George Pamfilis'
 
-from .random2D import Random2D
+from .random2D import Random2D, Random2DIsotropic
